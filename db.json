@@ -1,0 +1,40 @@
+{
+    "employees": [
+        {
+            "username": "mhalabi",
+            "email": "m.halabi@student.supsi.ch",
+            "name": "mohammad",
+            "lastname": "halabi"
+        },
+        {
+            "username": "lminardi",
+            "email": "l.minardi@student.supsi.ch",
+            "name": "luca",
+            "lastname": "minardi"
+        },
+        {
+            "username": "ppallino",
+            "email": "p.pallino@student.supsi.ch",
+            "name": "pippo",
+            "lastname": "pallino"
+        },
+        {
+            "username": "mrossi",
+            "email": "m.rossi@student.supsi.ch",
+            "name": "marco",
+            "lastname": "rossi"
+        }
+    ],
+    "locations": [
+        {
+            "name": "Lugano",
+            "lat": 46.01008,
+            "lng": 8.96004
+        },
+        {
+            "name": "Bellinzona",
+            "lat": 46.19278,
+            "lng": 9.01703
+        }
+    ]
+}
