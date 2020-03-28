@@ -36,5 +36,11 @@
             "lat": 46.19278,
             "lng": 9.01703
         }
-    ]
+    ],
+	"users": [
+		{
+			"username" : "admin"
+			"password" : "admin"
+		}
+	]
 }
