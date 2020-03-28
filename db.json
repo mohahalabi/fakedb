@@ -35,12 +35,22 @@
             "name": "Bellinzona",
             "lat": 46.19278,
             "lng": 9.01703
+        },
+        {
+            "name": "Zurigo",
+            "lat": 47.36667,
+            "lng": 8.55
+        },
+        {
+            "name": "Basilea",
+            "lat": 47.55839,
+            "lng": 7.57327
         }
     ],
-	"users": [
-		{
-			"username" : "admin",
-			"password" : "admin"
-		}
-	]
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin"
+        }
+    ]
 }
