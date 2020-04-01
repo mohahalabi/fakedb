@@ -1,24 +1,28 @@
 {
     "employees": [
         {
+            "id": 1,
             "username": "mhalabi",
             "email": "m.halabi@student.supsi.ch",
             "name": "mohammad",
             "lastname": "halabi"
         },
         {
+            "id": 2,
             "username": "lminardi",
             "email": "l.minardi@student.supsi.ch",
             "name": "luca",
             "lastname": "minardi"
         },
         {
+            "id": 3,
             "username": "ppallino",
             "email": "p.pallino@student.supsi.ch",
             "name": "pippo",
             "lastname": "pallino"
         },
         {
+            "id": 4,
             "username": "mrossi",
             "email": "m.rossi@student.supsi.ch",
             "name": "marco",
@@ -27,21 +31,25 @@
     ],
     "locations": [
         {
+            "id": 1,
             "name": "Lugano",
             "lat": 46.01008,
             "lng": 8.96004
         },
         {
+            "id": 2,
             "name": "Bellinzona",
             "lat": 46.19278,
             "lng": 9.01703
         },
         {
+            "id": 3,
             "name": "Zurigo",
             "lat": 47.36667,
             "lng": 8.55
         },
         {
+            "id": 4,
             "name": "Basilea",
             "lat": 47.55839,
             "lng": 7.57327
