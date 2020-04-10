@@ -1,32 +1,32 @@
 {
-    "employees": [
+    "users": [
         {
-            "id": 1,
-            "username": "mhalabi",
-            "email": "m.halabi@student.supsi.ch",
+            "email": "mhalabi@supsi.ch",
+            "password": "123456",
             "name": "mohammad",
-            "lastname": "halabi"
+            "lastname": "halabi",
+            "role": "ADMIN"
         },
         {
-            "id": 2,
-            "username": "lminardi",
-            "email": "l.minardi@student.supsi.ch",
+            "email": "lminardi@supsi.ch",
+            "password": "123456",
             "name": "luca",
-            "lastname": "minardi"
+            "lastname": "minardi",
+            "role": "USER"
         },
         {
-            "id": 3,
-            "username": "ppallino",
-            "email": "p.pallino@student.supsi.ch",
+            "email": "ppallino@supsi.ch",
+            "password": "123456",
             "name": "pippo",
-            "lastname": "pallino"
+            "lastname": "pallino",
+            "role": "USER"
         },
         {
-            "id": 4,
-            "username": "mrossi",
-            "email": "m.rossi@student.supsi.ch",
+            "email": "mrossi@supsi.ch",
+            "password": "123456",
             "name": "marco",
-            "lastname": "rossi"
+            "lastname": "rossi",
+            "role": "USER"
         }
     ],
     "locations": [
@@ -53,12 +53,6 @@
             "name": "Basilea",
             "lat": 47.55839,
             "lng": 7.57327
-        }
-    ],
-    "users": [
-        {
-            "username": "admin",
-            "password": "admin"
         }
     ]
 }
